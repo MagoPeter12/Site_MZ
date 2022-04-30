@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,100&family=Oswald&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+#LOGOTIPO{
+	width: 150px;
+	border-style: hidden;
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+main{
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+footer{
+	display: block;
+	margin: auto;
+    background-color: whitesmoke;
+    max-width: 80%;
+}
+body{
+	background-image: url(Imagens/background.jpg);
+    background-repeat: initial;
+}
+#divmenu{
+    display: flex;
+    padding-bottom: 15px;
+}
+#divphp{
+}
