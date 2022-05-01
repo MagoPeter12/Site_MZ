@@ -40,7 +40,10 @@ body{
 }
 #divmenu{
     display: flex;
-    padding-bottom: 15px;
+	flex-wrap: wrap;
+	align-items: baseline;
+	align-content: center;
 }
 #divphp{
+    display: flex;
 }

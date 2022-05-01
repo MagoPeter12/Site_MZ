@@ -76,16 +76,9 @@ body{
 	border-style: groove;
 	max-width: 100%;	
 }
-.Pro{
-	display: block;
-	margin: auto;
-}
 .spec{
 	display: inline-block;
 	padding-left: 100px;	
-}
-#DescricaoPro{
-	padding-bottom: 30px;
 }
 #divphp1{
 	display: flex;

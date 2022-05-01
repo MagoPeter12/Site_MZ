@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="footer.css">
+<link rel="stylesheet" type="text/css" href="footernovo.css">
 
 <footer>
 			<h2>Contatos</h2>
@@ -19,7 +19,7 @@
 				</div>
 			</div>
 			<br>
-			<a href="#"><img id="imgemail" src="Imagens/email.jpg">
+			<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTtfxPQnWLxgnHkstSlfsRCcGsBlXdcQfSWDTgkrTgNFMrtkxFwQhfdhDSXlKHphQjfHhN"><img id="imgemail" src="Imagens/email.jpg">
 				<p id="p-email">vendas@mzplastic.com.br</p>
 
 				<a href="https://www.instagram.com/mz_plastic/"><img id="imginstagram" src="Imagens/Instagram.jpg"></a>

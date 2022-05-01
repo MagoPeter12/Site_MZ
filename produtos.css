@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,100&family=Oswald&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+#LOGOTIPO{
+	width: 150px;
+	border-style: hidden;
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: justify;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+main{
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+body{
+	background-image: url(Imagens/background.jpg);
+    background-repeat: initial;
+}
+#divmenu{
+    display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	align-content: center;
+    padding-bottom: 20px;
+}
+#divphp{
+    display: flex;
+}
+.DivOrg{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+}
+#OrgCinza{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+#Clip{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+hr{
+    border-style: solid;
+    color: aliceblue;
+}
+#OrgPreto{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+#OrgBranco{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+footer{
+	margin: auto;
+    max-width: 50%; 
+}
