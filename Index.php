@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="utf-8">
+	<script type="text/javascript" src="menu.js"></script>
 	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<link rel="stylesheet" type="text/css" href="menu.css">
 	<body>
 		<main>
 
 		<div id="div1">
-			<img id="LOGOTIPO" src="https://storage.googleapis.com/production-hostgator-brasil-v1-0-5/935/292935/GEYBrbuT/57fdd47c7c15439194b99b065fd8e1a3">
+		<img id="LOGOTIPO" src="Imagens/logo.png">
 				<div id="divphp1">
-					<?php
-					include "menu.php";
-					?>
+				<nav class="nav">
+				<ul>
+   					<li><a href=EMPRESA.php>A Empresa</a>
+					<li><a href="#">Produtos</a>
+					<li><a href="#Rua">Contatos</a>
+					<li><a href="#">Sobre Nós</a>
+				</ul>
+				</nav>
 				</div>
 		</div>
 
+
 	<div id= "MZ">
-
-
-	<div class="BGTRANSPARENTE">
-		<img id="INJETORA" src="https://blog.solucoesindustriais.com.br/wp-content/uploads/2020/03/maquina-injetora-pavan-zanetti-nova-a-partir-de-D_NQ_NP_19034-MLB20165631415_092014-F.jpg">
-	</div>
 
 		<div class="Pro">
 
@@ -50,33 +53,16 @@
  		<img id="Dados" src="Imagens/Dados.png">
 		</div>
 
-
 </main>
 
-
-		<footer>
-			<h2>Contato</h2>
-			<hr>
-			<div id="address">
-				<p>Endereço</p>
-			</div>
-			<div id="Rua">
-			<p> Jacob Tomé, 52
-				Guarulhos, São Paulo, 07160450, BR</p>
-			</div>
-			<div class="telefone">
-				<div class="item">
-				<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511930499401" ">Whatsapp</a></div>
-				<div class="item">
-				<a>vendas@mzplastic.com.br</a>
-				</div>
-			</div>
-		</footer>
+<?php
+	include "footer.php";
+?>
 
 
 
 
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511930499401" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
   z-index:1000;" target="_blank">
 <i style="margin-top:16px" class="fa fa-whatsapp"></i>

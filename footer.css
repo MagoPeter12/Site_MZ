@@ -1,0 +1,45 @@
+h2{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
+
+#imginstagram{
+    width: 50px;
+    height: 50px;
+}
+#imgwhatsapp{
+    width: 50px;
+    height: 50px;
+}
+#imgemail{
+    width: 50px;
+    height: 50px;
+}
+#item{
+}
+
+#p-email{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.p-endereço{
+    color: white;
+    font-size: 20px;
+}
+
+footer{
+display: block;
+margin: auto;
+background-color: rgba(224, 251, 255, 0);
+max-width: 80%;
+max-height: 50%;
+}
+.telefone{
+}
+.item{
+}
+#Rua{
+    padding-bottom: 20px;
+}

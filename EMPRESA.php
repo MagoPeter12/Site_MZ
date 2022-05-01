@@ -5,16 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="EMPRESA.css">
+    <link rel="stylesheet" type="text/css" href="menu.css">
     <title>A Empresa</title>
 </head>
 <body>
     <main>
     <div id="divmenu">
-    <img id="LOGOTIPO" src="https://storage.googleapis.com/production-hostgator-brasil-v1-0-5/935/292935/GEYBrbuT/57fdd47c7c15439194b99b065fd8e1a3">
+    <img id="LOGOTIPO" src="Imagens/logo.png">
     <div id="divphp">
-    <?php
-    include "menu.php";
-    ?>
+    <nav class="nav">
+				<ul>
+					<li><a href="http://localhost/Site%20MZ%20Plastic">Inicio</a>
+   					<li><a href=EMPRESA.php>A Empresa</a>
+					<li><a href="#">Produtos</a>
+					<li><a href="#">Sobre Nós</a>
+				</ul>
+				</nav>
     </div>
     </div>
     <h2>A Empresa</h2>
