@@ -13,7 +13,7 @@
 			<div class="telefone">
 				<div class="item">
 				<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511930499401"><img id="imgwhatsapp" src="Imagens/whatsapp.jpg" alt="whatsapp"></a>
-				<p class="p-endereço">Contate nos</p>			
+				<p class="p-endereço">Fale Conosco</p>			
 			</div>
 				<div class="item">
 				</div>
